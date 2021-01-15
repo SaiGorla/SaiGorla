@@ -10,8 +10,9 @@
 <br>
 
 ## Collaboration :
-* https://github.com/SaiGorla?tab=repositories
-
++ https://github.com/SaiGorla?tab=repositories
++  Git Create/ Clone/ Push
+ 
 <br>
 
 ## Languages:
@@ -22,7 +23,7 @@
 <br>
 
 ## My Education:
-* Undergraduate atKakatiya University, Warangal, Telangana. (2019)
+* Undergraduate at Kakatiya University, Warangal, Telangana. (2019)
 * Graduate at Northwest Missouri State University. (2021)
 
 <br>
@@ -39,7 +40,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on BigData 
 - 🌱 I’m currently learning Java and Spring.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
